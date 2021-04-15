@@ -1,0 +1,7 @@
+https://www12.statcan.gc.ca/census-recensement/2016/geo/index-eng.cfm
+
+https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2011-eng.cfm
+
+https://open.toronto.ca/dataset/neighbourhoods/
+
+https://medium.com/@m_vemuri/create-a-geographic-heat-map-of-the-city-of-toronto-in-python-cd2ae0f8be55
